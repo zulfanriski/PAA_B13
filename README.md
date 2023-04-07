@@ -1,3 +1,9 @@
+langkah: 
+1. buka registersiswa.js terlebih dahulu, jangan index.js karena belum saya ubah, masih berupa halaman default nextjs :v
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
