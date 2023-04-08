@@ -29,7 +29,7 @@ export default async function register(req, res) {
       return;
     }
 
-    // hash password dan insert user baru ke database
+  
     const insertUserQuery = `INSERT INTO akunsiswa (nama, email, password) VALUES ('${nama}', '${email}', '${password}')`;
     executeQuery(insertUserQuery, async (error, results) => {
       if (error) {
