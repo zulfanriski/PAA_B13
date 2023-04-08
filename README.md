@@ -1,7 +1,9 @@
 langkah: 
-1. buka registersiswa.js terlebih dahulu, jangan index.js karena belum saya ubah, masih berupa halaman default nextjs :v
+1. buka registersiswa.js terlebih dahulu, untuk melakukan registrasi. Jangan index.js karena belum saya ubah, masih berupa halaman default nextjs :v
 2. ui masih belum dibuat, mungkin untuk next progress baru dibuatkan uinya. jadi mohon maaf kalo berantakan.
 3. sistem hanya berisi CRUD, login dan sign in
+4. untuk token autentikasi saya set expire selama satu hari
+
 
 
 
